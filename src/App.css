@@ -8,6 +8,10 @@
   pointer-events: none;
 }
 
+.App-top {
+  background-color: #282c34;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -18,6 +22,24 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.App-body {
+  background-color: #282c34;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+ }
+
+ .app-list {
+  width: 100%;
+  max-width: 600px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+ #fbp {
+   padding-top: 10px;
+ }
 
 .App-link {
   color: #61dafb;

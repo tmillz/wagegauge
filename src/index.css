@@ -12,3 +12,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.Button {
+  margin-bottom: 20px;
+}
+
+.Timer {
+  letter-spacing: 5px;
+  font-family: monospace;
+}
